@@ -1,12 +1,6 @@
-
-['i love you' , 'You could never be loved.']
-['i hate you' , 'I'm sorry, you must have confused me for someone who gives a shit.']
-['sod off mr mushroom' , 'I wish I could']
-['stacy's mom?' , 'She do be gotting it going on.']
-['stacy' , 'I dunno. She isn't really all that I want.']
-['alex is bad' , 'Rude']
-['do you like reddit?' , 'Yes.']
-['poop poop' , 'You are very immature.' ]
-['fuck you' , 'No. Fuck YOU']
-['kill yourself' , 'I'm not alive!']
-['kys' , 'I'm not alive!']
+i love you
+You could never be loved
+i hate you
+You must be confusing me with someone who gives a shit.
+kys
+I can't die!
