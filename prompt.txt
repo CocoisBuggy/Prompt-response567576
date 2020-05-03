@@ -1,6 +1,3 @@
-i love you
-You could never be loved
-i hate you
-You must be confusing me with someone who gives a shit.
-kys
-I can't die!
+['i love you'] , ['You could never be loved']
+['i hate you'] , ['You must be confusing me with someone who gives a shit.']
+['kys'] , ['I can't die!']
