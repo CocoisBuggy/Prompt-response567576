@@ -1,4 +1,4 @@
-[
+
 ['i love you' , 'You could never be loved.']
 ['i hate you' , 'I'm sorry, you must have confused me for someone who gives a shit.']
 ['sod off mr mushroom' , 'I wish I could']
@@ -10,4 +10,3 @@
 ['fuck you' , 'No. Fuck YOU']
 ['kill yourself' , 'I'm not alive!']
 ['kys' , 'I'm not alive!']
-]
